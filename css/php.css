@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+font
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+h3{
+    color:white;   
+}
+
+.letra{
+    font-size: 18px;
+    color: blueviolet;
+    
+}
+
+.columna{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.columna-25{
+    width: 25%;
+}
+.derecha{
+    text-align: center;
+}
